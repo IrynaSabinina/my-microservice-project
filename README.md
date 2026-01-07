@@ -1,4 +1,4 @@
-# 🚀 DevOps CI/CD Platform
+# DevOps CI/CD Platform
 
 **CI/CD Stack: Jenkins + Argo CD + Terraform + RDS + Prometheus + Grafana**
 

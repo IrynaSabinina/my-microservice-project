@@ -29,7 +29,7 @@ variable "git_repo_url" {
 variable "git_target_revision" {
   description = "Git branch/tag to track"
   type        = string
-  default     = "devops"
+  default     = "my-microservice-project"
 }
 
 variable "django_app_namespace" {
